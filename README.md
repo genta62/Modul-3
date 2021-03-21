@@ -16,3 +16,14 @@
 ![Modul 3 Latihan 4](https://user-images.githubusercontent.com/80944797/111910481-1eb67900-8a94-11eb-8d90-1f3304ff2624.png)
 
 ## Latihan 5
+
+![Modul 3 Latihan 5](https://user-images.githubusercontent.com/80944797/111910570-7ead1f80-8a94-11eb-87df-7a8c97f3b68d.png)
+
+## Latihan 6
+
+![Modul 3 Latihan 6](https://user-images.githubusercontent.com/80944797/111910579-87055a80-8a94-11eb-8f8d-e68fa6c33ce1.png)
+
+## Praktikum
+
+![Modul 3 Praktikum](https://user-images.githubusercontent.com/80944797/111910585-8cfb3b80-8a94-11eb-8043-a66d38f65658.png)
+
